@@ -1,0 +1,45 @@
+ID,Gender,Age,GMajor,GGPA,UMajor,UGPA,Employ,FTJobs,Salary,Spending,Advisor,Computer,Texts,Wealth
+1,Male,26,Economics/Finance,3.2,Other,3,Full-Time,3,50,70,6,Tablet,100,1
+2,Male,25,Other,3.2,Biological Sciences,3.1,Full-Time,2,140,150,4,Laptop,200,10
+3,Male,26,Other,3,Other,2.9,Unemployed,1,100,200,4,Laptop,500,1
+4,Male,23,Management,3,Business,3.8,Part-Time,0,50,300,4,Laptop,0,0.9
+5,Male,27,Retailing/Marketing,3,Business,3.9,Full-Time,1,80,150,4,Desktop,100,10
+6,Female,22,Accounting,3.9,Other,3.6,Unemployed,3,48,300,5,Laptop,100,1
+7,Female,31,Retailing/Marketing,3,Business,3.8,Full-Time,2,80,300,2,Laptop,0,7.5
+8,Male,26,Economics/Finance,3.7,Engineering,3,Full-Time,2,65,300,3,Desktop,60,1
+9,Male,25,Economics/Finance,3,Business,2.9,Full-Time,1,80,300,5,Laptop,400,0.1
+10,Female,29,Management,3.5,Engineering,3.7,Full-Time,2,75,560,4,Laptop,600,1
+11,Female,29,Accounting,4,Business,3.8,Unemployed,2,70,300,5,Laptop,5,1
+12,Male,29,CIS,4,Other,3.7,Full-Time,2,120,400,6,Laptop,10,1
+13,Male,47,Management,4,Business,3.7,Unemployed,1,65,300,6,Laptop,0,10
+14,Female,22,Economics/Finance,3,Business,3.3,Unemployed,0,45,400,6,Laptop,350,5
+15,Male,27,Management,3.7,Business,3.6,Full-Time,2,100,300,3,Laptop,5,0.5
+16,Male,24,Economics/Finance,3,Biological Sciences,2.9,Full-Time,2,60,675,5,Laptop,60,50
+17,Female,26,Economics/Finance,3,Business,3.7,Unemployed,1,60,400,4,Laptop,650,1
+18,Female,25,Retailing/Marketing,3,Other,3,Unemployed,2,65,500,5,Laptop,200,1.5
+19,Female,24,Economics/Finance,3,Other,3.3,Full-Time,1,150,350,4,Laptop,1250,2
+20,Male,23,Economics/Finance,3,Business,3.4,Full-Time,2,50,180,5,Laptop,1000,5
+21,Male,27,Management,3,Engineering,2.9,Full-Time,1,100,200,6,Laptop,20,10
+22,Male,21,CIS,3.1,Other,3,Part-Time,1,60,250,5,Laptop,5,10
+23,Male,22,Economics/Finance,3,Business,3.4,Part-Time,3,50,245,3,Laptop,250,6
+24,Female,24,Management,3,Other,3.6,Full-Time,2,,215,4,Laptop,200,10
+25,Male,26,Accounting,3,Business,3,Full-Time,2,100,350,4,Laptop,60,100
+26,Female,22,Retailing/Marketing,3,Business,3.4,Full-Time,1,70,75,4,Laptop,400,2
+27,Female,42,International Business,3.9,Other,2.8,Full-Time,1,180,1500,4,Laptop,2,5
+28,Female,26,Retailing/Marketing,3.6,Biological Sciences,3.6,Full-Time,2,52.5,250,5,Laptop,500,1
+29,Male,30,Retailing/Marketing,4,Other,3.5,Full-Time,3,125,,5,Laptop,75,10
+30,Male,24,Management,3,Business,3.6,Full-Time,2,70,170,4,Laptop,50,0.1
+31,Female,21,Economics/Finance,3,Business,3.7,Part-Time,1,40,200,5,Desktop,100,5
+32,Female,27,Accounting,3.3,Other,3.6,Full-Time,3,75,300,5,Laptop,30,2
+33,Female,24,Economics/Finance,3,Business,3.4,Full-Time,1,100,230,4,Laptop,50,50
+34,Male,32,Economics/Finance,3,Business,3.3,Part-Time,4,60,150,4,Laptop,0,1
+35,Male,24,Accounting,3,Business,3.2,Full-Time,1,70,2200,4,Laptop,300,1
+36,Female,41,Economics/Finance,3.8,Business,3.1,Full-Time,1,82.5,300,5,Laptop,1,5
+37,Male,24,Economics/Finance,3.7,Business,3.5,Unemployed,1,63,400,5,Laptop,75,3
+38,Male,26,Other,3.4,Business,3.4,Full-Time,2,300,400,7,Laptop,1000,20
+39,Female,22,Management,3,Business,3.7,Part-Time,0,75,360,6,Laptop,75,3
+40,Male,26,Retailing/Marketing,3.7,Other,3.2,Unemployed,2,70,140,5,Laptop,210,0.3
+41,Male,22,International Business,3,Business,3.3,Part-Time,0,55,600,5,Laptop,400,2.5
+42,Male,27,Other,4,Business,3.2,Full-Time,4,85,300,5,Laptop,210,10
+43,Female,25,Other,3.8,Business,2.9,Full-Time,2,70,190,4,Laptop,525,0.8
+44,Female,23,Management,4,Other,3.8,Full-Time,4,90,250,4,Laptop,100,100

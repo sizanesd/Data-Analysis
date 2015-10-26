@@ -1,0 +1,91 @@
+Address,Value,Location,Property,House,Age,Rooms,Baths,Garage
+9 Sycamore Road,466.0,Glen Cove,0.2297,2448,46,7,3.5,2
+21 Jefferson St,364.0,Glen Cove,0.2192,1942,51,7,2.5,1
+38 Hitching Post Lane,429.0,Glen Cove,0.1630,2073,29,5,3,2
+4 Poppy Lane,548.4,Glen Cove,0.4608,2707,18,8,2.5,1
+5 Daniel Drive,405.9,Glen Cove,0.2549,2042,46,7,1.5,1
+15 Francis Terrace,374.1,Glen Cove,0.2290,2089,88,7,2,0
+23 Guilfoy Street,315.0,Glen Cove,0.1808,1433,48,7,2,0
+17 Carlyle Drive,749.7,Glen Cove,0.5015,2991,7,9,2.5,1
+8 Craft Avenue,217.7,Glen Cove,0.2229,1008,52,5,1,0
+22 Beechwood Ct.,635.7,Glen Cove,0.1300,3202,15,8,2.5,2
+14 Fox Street,350.7,Glen Cove,0.1763,2230,54,8,2,0
+7 Raynham Road,455.0,Glen Cove,0.4200,1848,48,7,2,1
+2 Jerome Drive,356.2,Glen Cove,0.2520,2100,46,6,2,0
+7 Valentine Street,271.7,Glen Cove,0.1148,1846,12,5,3,1
+38 Jefferson Street,304.3,Glen Cove,0.1693,1331,64,5,1,1
+15 Inwood Road,288.4,Glen Cove,0.1714,1344,52,8,1,0
+29 Meadowfield Lane,396.7,Glen Cove,0.3849,1822,44,6,2,1
+13 Westland Drive,613.5,Glen Cove,0.6545,2479,46,6,2.5,2
+79 Valentine Street,314.1,Glen Cove,0.1722,1605,52,6,3,0
+13 Fairmont Place,363.5,Glen Cove,0.1435,2080,78,11,2,0
+1 Prestwick Terrace,364.3,Glen Cove,0.2755,2410,71,6,1,1
+11 Clement Street,305.1,Glen Cove,0.1148,1753,97,8,2,0
+7 Woodland Road,441.7,Glen Cove,0.3636,1884,45,7,2,2
+36 Elm Avenue,353.1,Glen Cove,0.1474,2050,41,10,2,2
+17 Duke Place,463.3,Glen Cove,0.2281,2978,40,6,2.5,2
+12 Prospect Avenue,320.0,Glen Cove,0.4626,2132,82,7,1,0
+1 Buckeye Road,332.8,Glen Cove,0.1889,1551,54,6,2,0
+30 Ann Street,276.6,Glen Cove,0.1228,1129,44,5,1,0
+26 Broadfield Place,397.0,Glen Cove,0.1492,1674,34,7,2,1
+16 Jackson Street,221.9,Glen Cove,0.0852,1184,94,5,1,0
+182 Village Road,681.4,Roslyn,0.2828,2194,54,7,2.5,1
+108 Burnham Avenue,606.0,Roslyn,0.1148,3032,74,8,2.5,1
+143 Powerhouse Road,457.9,Roslyn,0.2169,1970,23,6,3,2
+55 Hummingbird Drive,912.7,Roslyn,0.3761,3356,41,9,4.5,1
+40 Maple Street,416.7,Roslyn,0.1359,2070,31,10,2,1
+47 Magnolia Lane,726.6,Roslyn,0.2427,2826,54,8,2,1
+35 Harding Avenue,393.1,Roslyn,0.1540,1606,76,9,2,0
+100 Crescent Lane,612.4,Roslyn,0.2348,2063,54,6,2.5,1
+222 Garden Street,355.4,Roslyn,0.2217,1392,85,7,1,0
+6 Church Street,299.0,Roslyn,0.1750,1120,19,6,1.5,0
+12 Ridge Drive,471.0,Roslyn,0.2130,1817,51,6,2,0
+24 Madison Place,510.7,Roslyn,0.1377,2496,44,7,2,1
+18 Rockhill Road,517.7,Roslyn,0.2497,1615,52,7,2,1
+65 Elm Drive,873.3,Roslyn,0.4116,4067,45,8,4,1
+30 Wren Drive,854.7,Roslyn,0.3372,3130,37,8,3,1
+54 Lambert Street,374.8,Roslyn,0.1503,1423,88,6,2,0
+38 Magnolia Lane,543.0,Roslyn,0.2348,1799,54,6,2.5,1
+75 Burnham Avenue,554.0,Roslyn,0.1148,2936,22,8,2.5,1
+19 Oxford Street,365.2,Roslyn,0.1377,1439,53,7,1,1
+215 Elm Drive,811.8,Roslyn,0.4560,4065,43,7,2.5,2
+34 The Oaks,711.8,Roslyn,0.5563,2191,65,8,3,1
+2 Circle Lane,598.7,Roslyn,0.2778,2008,54,7,2.5,1
+70 Rugby Road,651.3,Roslyn,0.2775,2070,52,6,2,1
+150 Warner Avenue,511.1,Roslyn,0.2296,2710,104,7,2.5,0
+31 West Court,379.3,Roslyn,0.1377,1416,65,7,1.5,1
+7 The Locusts,786.0,Roslyn,0.2116,3244,72,6,2,0
+65 Starling Court,768.7,Roslyn,0.3535,2493,36,6,3,2
+106 Barberry Lane,679.9,Roslyn,0.2348,2473,54,6,2.5,1
+17 South Drive,615.8,Roslyn,0.3329,1968,49,6,2,1
+8 Woodland Road,766.4,Roslyn,0.3606,3136,34,9,3.5,1
+312 Archer Street,392.4,Freeport,0.3982,3227,109,13,1.5,0
+514 Long Beach Avenue,311.8,Freeport,0.3535,2618,52,9,3,1
+87 Smith Street,289.2,Freeport,0.2066,1928,94,8,2,0
+169 Miller Avenue,284.1,Freeport,0.0225,2145,55,8,2.5,1
+338 Rose,278.3,Freeport,0.1607,1559,45,6,3,1
+48 Meister Blvd,277.4,Freeport,0.1221,1550,12,5,2,1
+59 Whaley Street,240.2,Freeport,0.1722,1668,82,6,2,0
+127 Bedell Street,243.9,Freeport,0.1309,1423,89,7,1.5,0
+14 Robert Street,196.2,Freeport,0.1148,1175,52,4,2,0
+204 Grand Avenue,185.5,Freeport,0.1263,1214,82,6,1.5,0
+15 Martha,262.7,Freeport,0.1148,1856,36,6,2,1
+87 Howard Avenue,226.0,Freeport,0.1148,1223,46,6,1.5,0
+86 Hillside Avenue,156.3,Freeport,0.0803,961,81,5,1,0
+104 Southside Avenue,254.7,Freeport,0.3065,1679,98,8,1,0
+11 Oakfield Avenue,287.7,Freeport,0.1880,2316,52,10,3,1
+45 Rutland Road,184.8,Freeport,0.1033,1422,86,6,1,0
+36 Russell Place,286.4,Freeport,0.1722,2399,89,8,2,0
+60 Jefferson Street,220.2,Freeport,0.1377,1091,47,7,1,1
+116 Westside Avenue,223.3,Freeport,0.1033,1225,44,6,1,0
+40 Van Buren Street,189.2,Freeport,0.1148,1353,50,5,1,0
+13 Nassau Avenue,251.8,Freeport,0.1446,1680,91,6,1,0
+81 Miller Avenue,274.0,Freeport,0.2250,1960,82,8,1,0
+38 Cottage Court,254.1,Freeport,0.1111,1916,92,9,2,0
+461 Ray Street,219.2,Freeport,0.1395,1340,64,5,1,0
+20 Westend Avenue,231.2,Freeport,0.1263,1394,62,6,1,0
+100 Pearsall Avenue,274.7,Freeport,0.0716,1681,79,8,2,0
+34 Leonard Avenue,197.0,Freeport,0.1435,1468,78,6,1,0
+790 Guy Lombardo Avenue,406.2,Freeport,0.3444,3692,73,9,2,1
+41 Johnson Place,223.5,Freeport,0.1492,1456,51,5,1,0
+18 Maryland Avenue,259.7,Freeport,0.1313,1430,64,6,1.5,1
